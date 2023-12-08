@@ -6,6 +6,6 @@ The resulting interactive plots are saved to [Nextstrain.html](Nextstrain.html) 
 
 To view these plots interactively, go to:
 
- - [https://jbloom.github.io/SARS2_clock/Nextstrain.html](https://jbloom.github.io/SARS2_clock/Nextstrain.html)
+ - [https://jbloom.github.io/SARS2-clock/Nextstrain.html](https://jbloom.github.io/SARS2-clock/Nextstrain.html)
 
- - [https://jbloom.github.io/SARS2_clock/Pango.html](https://jbloom.github.io/SARS2_clock/Pango.html)
+ - [https://jbloom.github.io/SARS2-clock/Pango.html](https://jbloom.github.io/SARS2-clock/Pango.html)
