@@ -1,0 +1,11 @@
+name: SARS2-clock
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - altair=5.2
+  - jupyterlab
+  - pandas=2.1
+  - python=3.12
